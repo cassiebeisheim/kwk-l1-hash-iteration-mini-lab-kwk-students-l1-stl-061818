@@ -41,4 +41,6 @@ end
   summer_olympics.keys.each do |index|
     city_array.push(index.upcase)
   end 
+  
+  city_array
 
